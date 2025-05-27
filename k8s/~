@@ -4,5 +4,5 @@ metadata:
   name: mongo-secret
 type: Opaque
 data:
-  mongo-url: bW9uZ29kYjovL21vbmdvOjI3MDE3L215ZGI=  # base64 of 'mongodb://mongo:27017/mydb'
+  mongo-url: bW9uZ29kYjovL21vbmdvOjI3MDE3L215ZGI=  
 
